@@ -31,20 +31,20 @@ git clone https://github.com/yourusername/groq-llm-chatbot.git
 cd groq-llm-chatbot
 ```
 
-###2. Create .env with Your API Key
+### 2. Create .env with Your API Key
 
 Create a .env file:
 ```bash
 GROQ_API_KEY=your_actual_groq_api_key_here
 ```
 
-###3. Install Requirements
+### 3. Install Requirements
 
 ```bash
 pip install -r requirements.txt
 ``|
 
-###4. Run the App Locally
+### 4. Run the App Locally
 
 ```bash
 streamlit run app.py
