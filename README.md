@@ -60,7 +60,7 @@ streamlit run app.py
 - Push your code to a GitHub repository.
 
 
-- Go to streamlit.io/cloud.
+- Go to streamlit.io/cloud(https://streamlit.io/cloud).
 
 
 - Connect your GitHub repo.
