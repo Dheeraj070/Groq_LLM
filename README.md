@@ -55,7 +55,7 @@ streamlit run app.py
 
 ## Deployment
 
-###To deploy on Streamlit Community Cloud:
+### To deploy on Streamlit Community Cloud:
 
 - Push your code to a GitHub repository.
 
@@ -80,7 +80,6 @@ streamlit run app.py
 ## Example Usage
 ```bash
 User: "What is quantum computing?"
-
 AI (LLaMA3): "Quantum computing is an area of computer science based on quantum theory..."
 ```
 
