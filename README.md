@@ -7,7 +7,7 @@ This is a simple chatbot interface built using **Streamlit** and powered by **Gr
 ## Live Demo
 
 **Try it here:** 
-[https://groqllm-xccpsdhcwfeydanwcs8sid.streamlit.app/]
+https://groqllm-xccpsdhcwfeydanwcs8sid.streamlit.app/
 
 
 ---
@@ -60,7 +60,7 @@ streamlit run app.py
 - Push your code to a GitHub repository.
 
 
-- Go to streamlit.io/cloud(https://streamlit.io/cloud).
+- Go to https://streamlit.io/cloud.
 
 
 - Connect your GitHub repo.
