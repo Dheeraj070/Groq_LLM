@@ -42,7 +42,7 @@ GROQ_API_KEY=your_actual_groq_api_key_here
 
 ```bash
 pip install -r requirements.txt
-``|
+```
 
 ### 4. Run the App Locally
 
